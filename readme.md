@@ -1,22 +1,7 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Data is formated as follows:
-```json
-{REGION : {PROVINCES: [...],
-           registered_voters: 123,
-           PROVINCIAL_DATA: {PROVINCE :
-                                 {BATCH# :
-                                      {location_code: ...,
-                                       result: [...]
-                                      }
-                                  }
-                             }
-          }
-} 
-```
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+Data is formated in the following granularity: Region -> Province -> Municipality -> Result Batch
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
