@@ -1,0 +1,15 @@
+curl 'https://e22vh.gmanetwork.com/batch/28/REGION_III_AURORA_BALER.json' \
+  -H 'authority: e22c.gmanetwork.com' \
+  -H 'accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'accept-language: en-US,en;q=0.9,fil;q=0.8' \
+  -H 'if-none-match: "1652144166"' \
+  -H 'origin: https://www.gmanetwork.com' \
+  -H 'referer: https://www.gmanetwork.com/' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36' \
+  --compressed
