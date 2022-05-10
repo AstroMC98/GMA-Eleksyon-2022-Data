@@ -25,4 +25,4 @@ Project Link: [https://github.com/AstroMC98/GMA-Eleksyon-2022-Data](https://gith
 <!-- ACKNOWLEDGMENTS -->
 ## Notes
 
-Data was compiled from the official Eleksyon 2022 page of GMA (https://www.gmanetwork.com/news/eleksyon2022) as of `3:47AM May 10 2022`. Accuracy and legitimacy of the collected data may be verified through the same cited webpage.
+Data was compiled from the official Eleksyon 2022 page of GMA (https://www.gmanetwork.com/news/eleksyon2022) as of `12:00PM May 10 2022`. Accuracy and legitimacy of the collected data may be verified through the same cited webpage.
